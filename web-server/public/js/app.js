@@ -1,0 +1,1 @@
+console.log('Client side javascripts file is loaded!');
